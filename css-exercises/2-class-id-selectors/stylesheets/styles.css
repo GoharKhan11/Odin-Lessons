@@ -1,0 +1,18 @@
+.paragraph-class {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#large-blue-font {
+    color: blue;
+    font-size: 36px;
+}
+
+#bold-green {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+.large-font, #bold-green {
+    font-size: 24px;
+}
