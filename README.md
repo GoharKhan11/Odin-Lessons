@@ -21,12 +21,12 @@ Below is a list of directories and subdirectories in this collection and the les
     - 6-cascade-fix: Mnipulate the cascade to achieve the desired effect by managing specificity.
 
 - margin-and-padding
-    - 1-margin-and-padding: Manipulate padding and margins of <div> elements to achieve the desired spacing.
+    - 1-margin-and-padding: Manipulate padding and margins of div elements to achieve the desired spacing.
     - 2-margin-and-padding: Manipulate padding, spacing, display and font in CSS to achieve the desired layout
 
 - short-lessons
-    - absolute-link.html: Use absolute and relative links via the anchor <a> tag.
-    - list-lesson.html: Create ordered and unordered lists via the <ol>, <ul> and <li> tags.
+    - absolute-link.html: Use absolute and relative links via the anchor tag.
+    - list-lesson.html: Create ordered and unordered lists via the ol, ul and li tags.
 
 Note:
 
