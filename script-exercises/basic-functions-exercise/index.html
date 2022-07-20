@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function add7 (number) {
+            /* int -> int
+            Add 7 to the input number and return the result. */
+            return (number + 7);
+        }
+
+        console.log("tests for add7");
+        console.log("insert 13");
+        console.log(add7(13));
+        console.log("insert 5");
+        console.log(add7(5));
+        console.log("insert 100");
+        console.log(add7(100));
+        console.log("end tests for add7");
+
+        function multiply (num1, num2) {
+            /* int, int -> int
+            Multiply two input numbers */
+            return num1 * num2;
+        }
+
+        function capitalize (userText) {
+            /* str -> str.
+            Take a string, capitalize first letter and lowercase the rest, return result */
+            return userText.charAt(0).toUpperCase() + userText.substring(1).toLowerCase();
+        }
+
+        function lastLetter (userText) {
+            /* str -> char */
+            return userText.charAt(userText.length - 1);
+        }
+
+
+    </script>
+</body>
+</html>
